@@ -1,16 +1,13 @@
-### Hi there 👋
+💻 Web Developer | Desenvolvedor Frontend | WordPress Expert 🚀
 
-<!--
-**rafaeldarosa/rafaeldarosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Com 14 anos de experiência, transformo ideias em experiências digitais incríveis. Minha trajetória inclui grandes empresas, startups e projetos freelancers, sempre focado em criar interfaces rápidas, escaláveis e intuitivas.
 
-Here are some ideas to get you started:
+✅ Especialidades:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+React.js & React Native – Desenvolvimento de interfaces dinâmicas e interativas.
+
+WordPress & Desenvolvimento Web – Temas, plugins e soluções personalizadas.
+
+JavaScript, TypeScript & Node.js – Código limpo, otimizado e de alta performance.
+
+Liderança Técnica – Gestão de equipes e entrega de soluções eficientes.
